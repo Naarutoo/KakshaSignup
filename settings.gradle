@@ -1,0 +1,2 @@
+rootProject.name = "KakshaSignup"
+include ':app'
